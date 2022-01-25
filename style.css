@@ -77,11 +77,20 @@ P1 {
 }
 #fifty{
     color: orange;
-    text-size: 5px;
+    text-size: 10px;
     background-color:hsl(25, 100%, 94%);
+    border-radius: 4px;
+    font-weight: bold;
 }
 #notprice{
      text-decoration: line-through; 
+     font-family: serif;
+     font-size: 13px;
+     font-weight: bold;
+}
+.bp{
+    display: flex;
+    gap: 10px;
 }
 
 
